@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+main{
+    display: flex;
+}
+.container{
+    height: 852px;
+    width: 132px;
+    top: 43px;
+}
+.icon-backgroun{
+    height: 100%;
+    width: 100%;
+}
+.icons{
+    position: absolute;
+    top: 12px;
+    margin-left: 5.2em;
+    align-items: center;
+    
+}
+.background{
+    position: relative;
+    height: 35em;
+    width: 4em;
+    margin-left: 5em;
+    top: 12px;
+}
+.img-cnt{
+    align-items: center;
+}
+#image-1{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: -.7em;
+}
+#image-2{margin-bottom: 2em;
+    margin-left: -.7em;}
+#image-3{
+    margin-left: -.7em;
+    margin-bottom: 2em;}
+#image-4{margin-bottom: 2em;
+        height: 80px;
+        width: 67px;
+        margin-left: -.3em;
+    align-content: center;
+    background-color:rgba(241, 213, 187, 1);        
+}
+.nw{
+    margin-top: .8em;
+    margin-right: 2em;
+
+}
+#image-5{margin-bottom: 2em;
+    margin-left: -.5em;
+}
+#image-6{ 
+    
+    height: 7em;
+    width: 2.8em;
+    margin-left: -.4em;
+    
+}
+
+.cooo{
+   margin-top: -8em;
+}
+
+.bg-underline{
+    margin-left: 2em;
+    width: 134px;
+    height: 5px;
+}
+.bg-12{
+    width: 68px;
+    height: 5px;
+}
+.cartbg{
+    background-color: rgba(241, 213, 187, 1);
+    max-height:500px ;
+    max-width: 608px;
+    margin-top: 2em;
+    margin-left: 2em;
+   
+}
+.hhh{
+    margin-top: 12px;
+padding-left: 1em;
+margin-bottom: 0;
+}
+.orders{
+    
+}
+
+.order-1{
+    display: flex;
+   margin: 1em 2em 1em 1em;
+    max-height:400px;
+    padding: 10px;
+}
+
+.box-sign{
+    display: flex;
+}
+.smashed-avo-picture{
+    align-items: center;
+    
+}
+.smashed-name-picture{
+    align-items: center;
+    margin:1em;
+}
+input{ 
+    height: 30px;
+    width: 30px;
+}
+.box-sign{
+    margin: 1em 2em 0 0;
+    align-items: center;
+}
+a{
+    margin: 1em;
+    font-size: larger;
+    text-decoration: none;
+}
+.close-icon{
+    margin-top: 2em;
+    margin-left: 2em;
+}
+.left-nav{
+    max-height: 470px;
+    width: 304px;
+    
+    margin-top: 4.5em;
+    margin-left: 2em;
+
+}
+.your-sub{ 
+    padding-top:2em;
+    padding-left: 1em;
+    width: 300px;
+    height: 235px;
+    background: rgba(241, 213, 187, 1);
+
+}
+.we-are{
+    
+    width: 250px;
+    height: 54px;
+   font-weight: MULISH;
+    border-radius: 2px;
+    background: BLACK;
+    color: rgba(255, 255, 255, 1);
+}
+.we-are{
+margin-left: em;  
+}
+.heading{
+
+}
+.promo-code{
+    padding-top:2em;
+    padding-left: 1em;
+    width: 300px;
+    height: 235px;
+    border: 1px solid rgba(241, 213, 187, 1);
+}
+.last-input{
+    width: 280px;
+    height: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.we-were{
+    width: 120px;
+    height: 54px;
+   font-weight: 400;
+    border-radius: 2px;
+    background: BLACK;
+    color: white;
+
+}
+span{
+
+    margin-left: 2em;
+}

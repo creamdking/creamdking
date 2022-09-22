@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+main{
+    display:flex;
+    height:100vh;
+}
+.grid-1{
+    margin-left: 5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.grid-2{
+    margin-left: 5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.sushi-head{
+    margin-left:5em;
+    margin-top: 43px;
+    border: 2em;
+}
+h1{
+    
+}
+.rect-8{
+   
+    width: 200px;
+    background-color: #F1D5BB;
+    height: 5px;
+}
+.first-lineimg{
+    width: 149px;
+    height: 200px;
+    margin:2em 2em 2em 0;
+    text-align: center;
+}
+.uuu{
+    height:100%;
+    width:100%;
+}
+.final-button{
+   
+    
+    display: flex;
+   
+   
+
+}
+.second-lineimg{
+    width: 149px;
+    height: 200px; 
+    text-align: center;
+}
+
+button{
+    width: 194px;
+    height: 54px;
+   font-weight: MULISH;
+    border-radius: 2px;
+    background: BLACK;
+    color: rgba(255, 255, 255, 1);
+}
+
+.hero-cta{
+    margin-top: -2em;
+    margin-left: -3em;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.background{
+    position: relative;
+    
+    height: 35em;
+    width: 4em;
+    margin-left: 6em;
+    top: 12px;
+}
+.icon-backgroun{
+    height:100%;
+    width:100%;
+}
+.icons{
+    position: absolute;
+    height: 45em;
+    width: 4em;
+    margin-left: 6.7em;
+    top: 12px;
+    margin-top: 2em;
+}
+#image-1{margin-bottom: 2em;}
+#image-2{margin-bottom: 2em;}
+#image-3{
+    width: 65px;
+    height:80px;
+    margin-left: -12px;
+    align-items: center;
+    background-color:rgba(241, 213, 187, 1);
+    ;
+    margin-bottom: 2em;}
+#image-4{margin-bottom: 2em;}
+#image-5{margin-bottom: 2em;}
+#image-6{ 
+    top: 6em;
+    height: 7em;
+    width: 2.8em;
+    border: .5em solid black;
+    margin-top: 4em ;
+    margin-left: -.5em;
+    align-items: center;
+}
+.nw{
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.nwa{
+    
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.exit-icon{
+    color: rgba(241, 213, 187, 1);
+    height: 100%;
+    width:100%;
+}
+.cooo{
+    margin-top: 3em;
+    margin-right: 8em;
+}
+.mmmmmmmm{
+    margin-top: 2em;
+    
+}
